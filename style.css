@@ -1,0 +1,45 @@
+.box{
+    width: 1700px;
+    height: 1200px;
+    background-color: green;
+    border-radius: 15px;
+}
+.header{
+    width: 1700px;
+    height: 400px;
+    
+}
+.head{
+    width: 760px;
+    height: 400px;
+    float: left;
+}
+.text{
+width: 900px;
+height: 350px;
+float: left;
+padding: 10px;
+color: white;
+}
+.main{
+    width: 1700px;
+    height: 740px;
+}
+.section{
+    width: 450px;
+    height: 730px;
+    background-color: aliceblue;
+    float: left;
+    margin: 32px;
+    padding: 27px;
+}
+img{
+    width: 400px;
+    height: 400px;
+    
+}
+
+*{
+    box-sizing: border-box;
+}
+
